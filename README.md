@@ -2,7 +2,7 @@
 1. This app machine learning model mainly used for flower sepal, petal with and length predict the features.
 2. The Iris Flower Prediction App is a machine learning project that predicts the type of iris flower based on its physical measurements.
    
-# 🔑 About the Dataset
+# 🔑 About the Dataset:
 The Iris dataset is a classic dataset in machine learning and statistics. It contains 150 records of iris flowers with the following features:
 1. Sepal length (cm)
 2. Sepal width (cm)
