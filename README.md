@@ -10,11 +10,9 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 4. Petal width (cm)
    
 # Each record belongs to one of three species:
-1.Iris-setosa
-
-2.Iris-versicolor
-
-3.Iris-virginica
+1. Iris-setosa.
+2. Iris-versicolor.
+3. Iris-virginica.
     
 
 
